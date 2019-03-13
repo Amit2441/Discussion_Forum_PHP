@@ -1,0 +1,35 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-image: url("1.jpg");
+	background-repeat: no-repeat;
+	background-position: absolute;
+	background-size: cover;
+}
+
+form{
+	margin-top: 150px;
+	margin-left: 500px;
+	background-color: rgba(0,0,0,0.3);
+	display:inline-block;
+	border-radius: 20px;
+	width:400px;
+	height:400px;
+}
+input{
+	border: 2px solid #1AAB8A;
+	border-radius: 10px; 
+	margin: 12px;
+	width:330px;
+	height:40px;
+	padding:5px;
+}
+.button{
+	border-radius: 2px;
+	background-color:#1AAB8A;
+	font-size: 25px;
+	color:white;
+	font-family: sans-serif;
+}
